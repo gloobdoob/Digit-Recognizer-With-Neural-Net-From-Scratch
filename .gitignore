@@ -1,0 +1,4 @@
+
+*.csv
+MNIST Dataset/.ipynb_checkpoints/MNIST Digit Recognizer-checkpoint.ipynb
+MNIST Dataset/._.DS_Store
